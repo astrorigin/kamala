@@ -1,0 +1,4 @@
+132c132
+< #if MSDOS
+---
+> #ifdef MSDOS

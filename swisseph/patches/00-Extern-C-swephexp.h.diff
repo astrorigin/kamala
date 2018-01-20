@@ -1,0 +1,10 @@
+79a80,83
+> #ifdef __cplusplus
+> extern "C" {
+> #endif
+> 
+723a728,731
+> #ifdef __cplusplus
+> } /* extern C */
+> #endif
+> 

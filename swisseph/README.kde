@@ -1,0 +1,5 @@
+This directory contains the original swiss ephemeris source code from
+http://www.astro.com/swisseph/
+
+Our patches go in the patches subdirectory.
+Note that the patches are already applied.

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg4190"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="nak_07.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4192">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective4198" />
+    <inkscape:perspective
+       id="perspective4244"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.7781746"
+     inkscape:cx="8.7940411"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="967"
+     inkscape:window-x="-5"
+     inkscape:window-y="-3" />
+  <metadata
+     id="metadata4195">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#ff0000"
+       d="M 15.57364,56.641691 C 14.126871,55.526342 15.284539,54.285035 19.456011,52.478827 C 21.919901,51.411986 23.93622,50.343669 23.936721,50.104788 C 23.937222,49.865908 22.721002,49.281957 21.23401,48.80712 C 16.86823,47.413008 9.8345196,40.951904 8.274804,36.902911 C 3.7508931,25.158916 11.487931,15.645636 27.9824,12.670912 C 30.932998,12.138781 36.287487,10.560419 39.881263,9.163441 C 43.475039,7.7664631 46.801967,6.8076627 47.274435,7.0327738 C 49.116545,7.9104606 47.959681,9.2228575 44.054619,10.685474 C 39.630859,12.342367 39.51202,13.222545 43.618199,13.917817 C 47.626149,14.596456 52.842592,18.951877 55.104157,23.50791 C 61.034445,35.45477 52.528794,47.758185 36.882201,49.865945 C 34.937909,50.127861 29.607005,51.86318 25.035746,53.72221 C 15.870394,57.449555 16.406851,57.284034 15.57364,56.641691 z M 41.703418,46.67207 C 46.143434,45.202935 46.188784,45.943262 41.064022,36.234184 C 28.198096,11.859145 29.939363,13.642313 22.022944,16.734916 C 18.248082,18.209592 17.556122,18.764765 17.932836,20.016489 C 18.363972,21.449045 26.214771,36.470013 28.830538,40.867111 C 29.508657,42.007026 30.744068,44.258632 31.575898,45.870681 C 33.271179,49.156059 34.017772,49.215137 41.703418,46.67207 z M 21.629747,34.191053 C 18.335194,27.603651 15.326288,21.94756 14.943289,21.621961 C 13.418132,20.325381 11.108821,24.795882 10.687151,29.861246 C 10.131527,36.535758 11.869725,40.203302 17.351776,43.923392 C 21.035653,46.423251 26.576002,47.921577 27.346986,46.626488 C 27.497058,46.374399 24.9243,40.778453 21.629747,34.191053 z M 52.93987,37.15372 C 54.239375,34.92137 55.302606,32.007041 55.302606,30.677433 C 55.302606,27.273317 52.973914,22.586457 50.114977,20.236513 C 46.011635,16.863712 34.691338,13.472845 34.691338,15.616537 C 34.691338,16.501371 40.145873,28.040444 43.19834,33.613107 C 44.5512,36.082923 46.003434,38.803174 46.425526,39.658111 C 47.84005,42.523189 50.383347,41.545437 52.93987,37.15372 z"
+       id="kamala"
+       inkscape:label="#path4252" />
+  </g>
+</svg>

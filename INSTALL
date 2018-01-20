@@ -1,0 +1,39 @@
+==================================
+Kamala - Installation instructions
+==================================
+
+Swiss Ephemeris files
+=====================
+
+For the application to start correctly, the contents of
+`ftp://ftp.astro.com/pub/swisseph/ephe/` must be found in a local directory.
+
+The following paths will be tested for existence and the first
+one to be found will be chosen as default (this path can later be changed to
+anything else, in the preferences dialog, however it is strongly recommended
+to follow these guidelines, as there is a growing number of applications using
+them):
+`/usr/share/swisseph`, `/usr/local/share/swisseph`, `/share/swisseph`,
+`/usr/opt/swisseph`, `/usr/local/opt/swisseph`, `/opt/swisseph`.
+
+Here is an example of a normal install:
+
+    ``mkdir /usr/local/share/swisseph``
+
+    ``cd /usr/local/share/swisseph``
+
+Not all files are necessary! The following (recommended) is everything needed
+to get started (about 41M):
+
+    ``wget ftp://ftp.astro.com/pub/swisseph/ephe/*``
+
+A minimal install example (about 2M, from 1800 AD to 2300 AD, without fixed
+stars, etc):
+
+    ``wget ftp://ftp.astro.com/pub/swisseph/ephe/archive_gzip/sweph_18.tar.gz``
+
+    ``tar zxf sweph_18.tar.gz``
+
+In doubt, read more at ``ftp://ftp.astro.com/pub/swisseph/ephe/README.TXT``
+
+..

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Kamala
+Name[x-test]=xxKamalaxx
+GenericName=Astrology software
+GenericName[de]=Astrologie-Programm
+GenericName[et]=Astroloogiarakendus
+GenericName[fr]=Logiciel d'astrologie
+GenericName[gl]=Programa de astroloxía
+GenericName[km]=កម្មវិធី​ហោរាសាស្ត្រ
+GenericName[nds]=Astrologie-Software
+GenericName[pt]=Aplicação de astrologia
+GenericName[pt_BR]=Software de astrologia
+GenericName[sv]=Astrologiprogramvara
+GenericName[tr]=Astroloji yazılımı
+GenericName[uk]=Астрологічна програма
+GenericName[x-test]=xxAstrology softwarexx
+Comment=
+Exec=kamala
+Icon=kamala
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DocPath=kamala/index.html
+Categories=Qt;KDE;Office;Chart;Database;

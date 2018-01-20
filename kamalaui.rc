@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui name="kamala" version="20090601"
+     xmlns="http://www.kde.org/standards/kxmlgui/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.kde.org/standards/kxmlgui/1.0
+                         http://www.kde.org/standards/kxmlgui/1.0/kxmlgui.xsd">
+
+<MenuBar>
+
+    <Menu name="chartMenu">
+        <text>Chart</text>
+        <Action name="newChart"/>
+        <Separator lineSeparator="true"/>
+        <Action name="closeChart"/>
+        <Action name="closeAllCharts"/>
+        <Separator lineseparator="true"/>
+<!--
+        <Action name="saveAsImage"/>
+        <Separator lineseparator="true"/>
+        <Action name="chartContext"/>
+        <Action name="zoomIn"/>
+        <Action name="zoomOut"/>
+        <Separator lineseparator="true"/>-->
+        <Action name="quitApp"/>
+    </Menu>
+
+    <Menu name="Wheel1">
+        <text>1st Wheel</text>
+        <Action name="editWheel1"/>
+        <Action name="saveWheel1"/>
+        <!--
+        <Action name="saveWheel1As"/>
+        <Action name="settingsWheel1"/>
+        <Separator lineseparator="true"/>
+        <Action name="stepBackWheel1"/>
+        <Action name="stepForwardWheel1"/>
+        <Action name="stepTypeWheel1"/>
+        <Separator lineSeparator="true"/>
+        <Action name="timeStepValueWheel1"/>
+        <Action name="timeStepUnitWheel1"/>
+        <Action name="spaceStepAxisWheel1"/>
+        -->
+    </Menu>
+<!--
+    <Menu name="Wheel2">
+        <text>Compare</text>
+        <Action name="showWheel2"/>
+        <Action name="transitsNow"/>
+        <Separator lineseparator="true"/>
+        <Action name="editWheel2"/>
+    </Menu>
+
+    <Menu name="tools">
+        <Action name="executeScript"/>
+    </Menu>
+
+    <Menu name="settings">
+        <Action name="contextManager"/>
+        <Action name="settingsManager"/>
+        <Separator lineSeparator="true"/>
+        <Action name="planetFilterManager"/>
+        <Action name="aspectFilterManager"/>
+        <Action name="orbFilterManager"/>
+        <Action name="aspectRestrictionManager"/>
+        <Action name="orbRestrictionManager"/>
+        <Action name="aspectManager"/>
+        <Action name="planetManager"/>
+        <Action name="keywordManager"/>
+    </Menu>
+-->
+</MenuBar>
+
+<ToolBar name="chartToolBar" >
+    <text>Chart Toolbar</text>
+    <Action name="newChart"/>
+    <Action name="editWheel1"/>
+    <Action name="saveWheel1"/>
+    <Action name="closeChart"/>
+    <Action name="quitApp"/>
+</ToolBar>
+
+
+</gui>
